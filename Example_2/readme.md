@@ -1,5 +1,6 @@
-# This is a slightly more involved, yet simple, example expanding upon the capabilities of Streamlit
-# It uses the same 2018 World Cup Squads dataset for the analysis
+# 2018 World Cup Squads analysis using Streamlit (version 2)
+
+### This is a slightly more involved, yet simple, example expanding upon the capabilities of Streamlit
 
 ### *Click the Streamlit tab below to see the magic!!!*
 
